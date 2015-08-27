@@ -1,6 +1,8 @@
 Java Programming Basics
 =======================
 
+#THESE QUESTIONS WILL BE ON THE MIDTERM!!!
+
 ##Types
 
 List all primitive types in Java.
