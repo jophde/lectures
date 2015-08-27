@@ -7,7 +7,11 @@ Java Programming Basics
 
 List all primitive types in Java.
 
+int, short, float, long, double, char, byte, boolean
+
 Is `String` a primitive type?
+
+No, it's an Object.
 
 Explain the difference between `String`, `StringBuffer`, and `StringBuilder`.
 
